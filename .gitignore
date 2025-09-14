@@ -5,3 +5,7 @@
 .vscode/
 .idea/
 *.iml
+
+# Ignore SSH keys
+*.pub
+sonukumar21off@gmail.com
