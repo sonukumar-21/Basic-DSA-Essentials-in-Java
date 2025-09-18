@@ -1,19 +1,18 @@
-# Ignore compiled Java files
+
 *.class
 
-# Ignore IDE/editor folders and files
+
 .vscode/
 .idea/
 *.iml
 
-# Ignore logs
+
 *.log
 
-# Ignore OS files
+
 .DS_Store
 Thumbs.db
 
-# Ignore SSH/private keys
 *.pem
 *.pub
 id_ed25519
