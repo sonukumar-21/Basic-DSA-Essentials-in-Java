@@ -13,7 +13,7 @@ public class SquareCube {
         int square = n * n;
         int cube = n * n * n;
 
-        System.out.println("Squarre of " + n + " = " + square);
+        System.out.println("Square of " + n + " = " + square);
         System.out.println("Cube of " + n + " = " + cube);
 
         sc.close(); 
